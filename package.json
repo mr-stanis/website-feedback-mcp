@@ -1,0 +1,41 @@
+{
+  "name": "website-feedback-mcp",
+  "version": "0.1.0",
+  "description": "MCP server for Website Feedback Tool: let Claude Code, Cursor or Codex read design reviews captured on live web pages.",
+  "mcpName": "tools.websitefeedback/website-feedback-tool",
+  "type": "module",
+  "bin": {
+    "website-feedback-mcp": "src/index.js"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "website-feedback",
+    "design-review",
+    "visual-feedback",
+    "claude-code",
+    "cursor",
+    "codex"
+  ],
+  "homepage": "https://websitefeedback.tools/developers/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-stanis/website-feedback-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mr-stanis/website-feedback-mcp/issues"
+  },
+  "author": "Stanmash Ltd <support@websitefeedback.tools> (https://websitefeedback.tools/)",
+  "license": "MIT"
+}
