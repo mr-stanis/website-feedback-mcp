@@ -1,4 +1,5 @@
 # website-feedback-mcp
+[![M8ven Score](https://m8ven.ai/badge/mcp/mr-stanis-website-feedback-mcp-ag4cf1?v=2124dc344c36f89d89557b9f90f9d034)](https://m8ven.ai/mcp/mr-stanis-website-feedback-mcp-ag4cf1?s=readme)
 
 MCP server for [Website Feedback Tool](https://websitefeedback.tools/) — a free Chrome extension for leaving visual feedback on live web pages. It lets Claude Code, Cursor, Codex or any MCP client read the design reviews you captured in the browser and fix them in your code.
 
